@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Setting up to do some micontroller work using Arduino
